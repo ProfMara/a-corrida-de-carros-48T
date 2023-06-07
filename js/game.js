@@ -208,9 +208,7 @@ class Game{
             }
             player.update();
         }else{
-            gameState = 2;
-            
-            this.gameOver()
+        
         }
     }
  
